@@ -1,0 +1,18 @@
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\bin\Debug\IPSToCheck.txt
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.exe.config
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.exe
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.pdb
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.exe
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.pdb
+C:\Users\Admin\Desktop\Allan Work\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.properties
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\bin\Debug\IPSToCheck.txt
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.properties
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.exe.config
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.exe
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\bin\Debug\EventViewerReport.pdb
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.csprojAssemblyReference.cache
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.csproj.CoreCompileInputs.cache
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.exe
+D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\obj\Debug\EventViewerReport.pdb

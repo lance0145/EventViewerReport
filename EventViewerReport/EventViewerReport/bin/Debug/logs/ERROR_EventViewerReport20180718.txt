@@ -1,0 +1,12 @@
+7/18/2018 5:26:28 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
+7/18/2018 5:55:44 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
+7/18/2018 6:12:52 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
+7/18/2018 6:26:45 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
+7/18/2018 6:36:02 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
+7/18/2018 6:53:59 PM: SendMail: ERROR: Could not attach files: System.NullReferenceException: Object reference not set to an instance of an object.
+   at EventViewerReport.Utility.SendMail(String recipient, String sender, String replyTo, String cc, String bcc, String subject, String emailText, List`1 attachments) in D:\Work\WorkTasksAllan\EventViewerReport\EventViewerReport\Utility.cs:line 1146
